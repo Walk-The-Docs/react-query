@@ -1,3 +1,4 @@
+# Why React Query?
 Excerpt copied From the docs at https://react-query.tanstack.com/overview
 
 # Overview
